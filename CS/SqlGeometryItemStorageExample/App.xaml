@@ -1,4 +1,4 @@
-﻿<Application x:Class="SqlGeometryItemStorageExample.App"
+<Application x:Class="SqlGeometryItemStorageExample.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              StartupUri="MainWindow.xaml">
