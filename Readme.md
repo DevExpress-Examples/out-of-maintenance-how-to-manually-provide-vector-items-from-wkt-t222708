@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/SqlGeometryItemStorageExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SqlGeometryItemStorageExample/MainWindow.xaml))
+<!-- default file list end -->
 # How to manually provide vector items from WKT
 
 
